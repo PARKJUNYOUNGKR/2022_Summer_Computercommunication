@@ -1,6 +1,6 @@
 # 2022_Summer_Computercommunication
-##Github 원격지 저장 활용 시험
-*Github Test
+## Github 원격지 저장 활용 시험
+* Github Test
 
 _____
 
