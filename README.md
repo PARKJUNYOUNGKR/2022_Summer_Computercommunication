@@ -1,9 +1,8 @@
 # 2022_Summer_Computercommunication
 ## Github 원격지 저장 활용 시험
-* Github Test
 
 _____
-
+- Github Test
 - Here is talk about 'ANU_Summersession_Computercommunication'
 
 This is a place to learn about engineering communication for the summer semester of Andong National University.
